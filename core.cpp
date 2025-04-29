@@ -205,7 +205,6 @@ int main() {
             maxHealth = 100;
             healthPotion = 0;
         }
-
     }
 
 
